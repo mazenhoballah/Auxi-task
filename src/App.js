@@ -1,5 +1,5 @@
 import './App.css';
-import React, { useState } from 'react';
+import React from 'react';
 import DropZone from './components/drop-zone/drop-zone.component';
 
 function App() {
